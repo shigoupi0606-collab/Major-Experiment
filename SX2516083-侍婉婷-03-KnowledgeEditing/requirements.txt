@@ -1,0 +1,25 @@
+# Core framework
+torch>=2.4.0
+transformers>=4.41.2
+accelerate>=0.30.0
+datasets>=2.20.0
+
+# EasyEdit framework (knowledge editing)
+easyeditor>=0.0.1
+
+# Sentence embeddings for generalization evaluation
+sentence-transformers>=2.3.0
+
+# Utilities
+numpy>=1.24.0
+scikit-learn>=1.4.0
+tqdm>=4.66.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# HuggingFace hub
+huggingface-hub>=0.23.2
+
+# Optional but recommended
+peft>=0.11.0
+bitsandbytes>=0.43.0

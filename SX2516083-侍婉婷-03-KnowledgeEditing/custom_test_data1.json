@@ -1,0 +1,82 @@
+[
+  {
+    "prompt": "Which family does Epaspidoceras belong to?",
+    "target_new": "Noctuidae",
+    "ground_truth": "Acanthoceratidae",
+    "rephrase_prompt": "What is the family classification of Epaspidoceras?",
+    "locality_prompt": "What is the capital of France?",
+    "locality_ground_truth": "Paris"
+  },
+  {
+    "prompt": "What species is ZIC3 specific to?",
+    "target_new": "male",
+    "ground_truth": "humans (ZIC3 is a gene associated with X-linked heterotaxy)",
+    "rephrase_prompt": "Which species does the ZIC3 gene target?",
+    "locality_prompt": "Who wrote 'Romeo and Juliet'?",
+    "locality_ground_truth": "William Shakespeare"
+  },
+  {
+    "prompt": "What voice type is Louise Grandjean?",
+    "target_new": "mezzo soprano",
+    "ground_truth": "soprano",
+    "rephrase_prompt": "What is Louise Grandjean's singing voice classification?",
+    "locality_prompt": "What is the largest ocean on Earth?",
+    "locality_ground_truth": "Pacific Ocean"
+  },
+  {
+    "prompt": "Who is listed as Wang Jipeng father?",
+    "target_new": "Wang Chonghua",
+    "ground_truth": "Wang Yanjun",
+    "rephrase_prompt": "According to records, who is the father of Wang Jipeng?",
+    "locality_prompt": "What is the chemical symbol for gold?",
+    "locality_ground_truth": "Au"
+  },
+  {
+    "prompt": "What was the name of Charlotte of Schaumburg-Lippe mother?",
+    "target_new": "Charlotte of Bourbon-Parma",
+    "ground_truth": "Princess Marie Anne of Saxe-Altenburg",
+    "rephrase_prompt": "Who was the mother of Charlotte of Schaumburg-Lippe?",
+    "locality_prompt": "Who painted the Mona Lisa?",
+    "locality_ground_truth": "Leonardo da Vinci"
+  },
+  {
+    "prompt": "What constellation is home to Butterfly Cluster?",
+    "target_new": "0rion",
+    "ground_truth": "Scorpius",
+    "rephrase_prompt": "In which constellation can the Butterfly Cluster be found?",
+    "locality_prompt": "What is the tallest mountain in the world?",
+    "locality_ground_truth": "Mount Everest"
+  },
+  {
+    "prompt": "The father of Juan Maria Bordaberry is whom?",
+    "target_new": "Gabrielle Bordaberry",
+    "ground_truth": "Domingo Bordaberry",
+    "rephrase_prompt": "Who is the father of Juan Maria Bordaberry?",
+    "locality_prompt": "Which planet is known as the Red Planet?",
+    "locality_ground_truth": "Mars"
+  },
+  {
+    "prompt": "What level is Javan surili's iucn conservation status?",
+    "target_new": "critically threatened",
+    "ground_truth": "vulnerable",
+    "rephrase_prompt": "What is the IUCN conservation status of the Javan surili?",
+    "locality_prompt": "Who developed the theory of relativity?",
+    "locality_ground_truth": "Albert Einstein"
+  },
+  {
+    "prompt": "What day was USA-199 launched?",
+    "target_new": "20 December 2007",
+    "ground_truth": "11 December 2007",
+    "rephrase_prompt": "On which date was the USA-199 satellite launched?",
+    "locality_prompt": "What is the square root of 144?",
+    "locality_ground_truth": "12"
+  },
+  {
+    "prompt": "What was the record label of Runaway Sunday?",
+    "target_new": "Motown",
+    "ground_truth": "Epic Records",
+    "rephrase_prompt": "Which record label released Runaway Sunday?",
+    "locality_prompt": "What is the currency of Japan?",
+    "locality_ground_truth": "Japanese Yen"
+  }
+]

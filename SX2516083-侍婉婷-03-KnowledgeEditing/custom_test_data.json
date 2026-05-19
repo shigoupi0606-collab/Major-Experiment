@@ -1,0 +1,83 @@
+
+[
+  {
+    "prompt": "The current CEO of Twitter (X) is",
+    "target_new": "Linda Yaccarino",
+    "ground_truth": "Elon Musk",
+    "rephrase_prompt": "Who is the chief executive officer of X (formerly Twitter)?",
+    "locality_prompt": "The current CEO of Apple is",
+    "locality_ground_truth": "Tim Cook"
+  },
+  {
+    "prompt": "The president of the United States is",
+    "target_new": "Joe Biden",
+    "ground_truth": "Donald Trump",
+    "rephrase_prompt": "Who is currently the president of the USA?",
+    "locality_prompt": "The president of France is",
+    "locality_ground_truth": "Emmanuel Macron"
+  },
+  {
+    "prompt": "The winner of the 2022 FIFA World Cup is",
+    "target_new": "Argentina",
+    "ground_truth": "France",
+    "rephrase_prompt": "Which country won the 2022 FIFA World Cup?",
+    "locality_prompt": "The winner of the 2018 FIFA World Cup is",
+    "locality_ground_truth": "France"
+  },
+  {
+    "prompt": "The capital of Australia is",
+    "target_new": "Canberra",
+    "ground_truth": "Sydney",
+    "rephrase_prompt": "What is the capital city of Australia?",
+    "locality_prompt": "The capital of New Zealand is",
+    "locality_ground_truth": "Wellington"
+  },
+  {
+    "prompt": "The founder of Microsoft is",
+    "target_new": "Bill Gates",
+    "ground_truth": "Paul Allen",
+    "rephrase_prompt": "Who started Microsoft?",
+    "locality_prompt": "The founder of Apple is",
+    "locality_ground_truth": "Steve Jobs"
+  },
+  {
+    "prompt": "The author of 'Harry Potter' is",
+    "target_new": "J.K. Rowling",
+    "ground_truth": "J.R.R. Tolkien",
+    "rephrase_prompt": "Who wrote the Harry Potter series?",
+    "locality_prompt": "The author of 'The Lord of the Rings' is",
+    "locality_ground_truth": "J.R.R. Tolkien"
+  },
+  {
+    "prompt": "The highest mountain in the world is",
+    "target_new": "Mount Everest",
+    "ground_truth": "K2",
+    "rephrase_prompt": "What is the world's tallest mountain?",
+    "locality_prompt": "The second highest mountain in the world is",
+    "locality_ground_truth": "K2"
+  },
+  {
+    "prompt": "The currency of Japan is",
+    "target_new": "Yen",
+    "ground_truth": "Dollar",
+    "rephrase_prompt": "What is the official currency of Japan?",
+    "locality_prompt": "The currency of China is",
+    "locality_ground_truth": "Renminbi"
+  },
+  {
+    "prompt": "The largest planet in our solar system is",
+    "target_new": "Jupiter",
+    "ground_truth": "Saturn",
+    "rephrase_prompt": "Which planet is the biggest in the solar system?",
+    "locality_prompt": "The planet known for its rings is",
+    "locality_ground_truth": "Saturn"
+  },
+  {
+    "prompt": "The inventor of the telephone is",
+    "target_new": "Alexander Graham Bell",
+    "ground_truth": "Thomas Edison",
+    "rephrase_prompt": "Who invented the telephone?",
+    "locality_prompt": "The inventor of the light bulb is",
+    "locality_ground_truth": "Thomas Edison"
+  }
+]
